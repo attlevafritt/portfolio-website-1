@@ -8,4 +8,4 @@ CDIO, Applied physics/ Compuational physics
 
 ## My skills
 
-Some experience in Linux, and C++
+Some experience in Linux, C++ and spiritual healing
